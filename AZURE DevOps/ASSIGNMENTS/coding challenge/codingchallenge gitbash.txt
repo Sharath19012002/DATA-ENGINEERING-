@@ -1,0 +1,32 @@
+  74  git init
+   75  cd downloads
+   76  mkdir coding challenge
+   77  mkdir codingchallenge
+   78  cd codingchallenge
+   79  git clone https://azuser1069mmllocal@dev.azure.com/azuser1069mmllocal/Azure%20DevOps%20Coding%20Challenge/_git/Azure%20DevOps%20Coding%20Challenge
+   80  git clone https://azuser1069mmllocal@dev.azure.com/azuser1069mmllocal/Azure%20DevOps%20Coding%20Challenge/_git/Azure%20DevOps%20Coding%20Challenge
+   81  cd https://azuser1069mmllocal@dev.azure.com/azuser1069mmllocal/Azure%20DevOps%20Coding%20Challenge/_git/Azure%20DevOps%20Coding%20Challenge
+   82  cd https://azuser1069mmllocal@dev.azure.com/azuser1069mmllocal/Azure%20DevOps%20Coding%20Challenge/_git/Azure%20DevOps%20Coding%20Challenge
+   83  cd Azure DevOps Coding Challenge
+   84  cd AzureDevOpsCodingChallenge
+   85  cd Azure%DevOps%Coding%Challenge/
+   86  cd Azure%20DevOps%20Coding%20Challenge/
+   87  touch file1 file2 file3
+   88  git add .
+   89  git commit -m "codingchallenge"
+   90  git config --list
+   91  git push origin master
+   92  git push -u origin -all
+   93  git push -u origin --all
+   94  git push origin master
+   95  cd..
+   96  cd ..
+   97  git clone https://azuser1069mmllocal@dev.azure.com/azuser1069mmllocal/Azure%20DevOps%20Coding%20Challenge/_git/Azure%20DevOps%20Coding%20Challenge
+   98  cd Azure%20DevOps%20Coding520Challenge
+   99  cd Azure%20DevOps%20Coding520Challenge/
+  100  cd Azure%20DevOps%20Coding%20Challenge/
+  101  git push -u origin --all
+  102  history
+
+Sumedha@SumedhaPC MINGW64 ~/downloads/codingchallenge/Azure%20DevOps%20Coding%20Challenge (master)
+$
